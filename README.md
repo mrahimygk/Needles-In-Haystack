@@ -10,8 +10,8 @@ Or even worse : is there a "geb" inside of "abcdefg"?
 # Just Browse The Code
 I have a bad feeling, because this code worked in the first attempt...
 
-#Found abug?
+# Found a bug?
 Ofcourse there is, I will learn from you.
 
-#Credits
+# Credits
 The random string generation is done with org.fluttercode.datafactory library. Credit goes to Andy Gibson	(contact<at>andygibson.net) . Thanks!
