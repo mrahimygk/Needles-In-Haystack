@@ -12,3 +12,6 @@ I have a bad feeling, because this code worked in the first attempt...
 
 #Found abug?
 Ofcourse there is, I will learn from you.
+
+#Credits
+The random string generation is done with org.fluttercode.datafactory library. Credit goes to Andy Gibson	(contact<at>andygibson.net) . Thanks!
