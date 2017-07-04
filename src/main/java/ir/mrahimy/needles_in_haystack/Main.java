@@ -134,7 +134,7 @@ public class Main {
             if (bigOne.contains(smallOne)) return true;
 
             subs[i++] = bigOne.substring(bigOne.indexOf(c));
-            bigOne = bigOne.substring(bigOne.indexOf(c));
+            bigOne = bigOne.substring(bigOne.indexOf(c)+1);
         }
 
         return isDescendingElementLength(subs);
